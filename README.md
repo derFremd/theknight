@@ -6,6 +6,8 @@
 Для загрузки в эмулятор используйте формат "the_knight.cas".
 Тестировалось на эмуляторе vector06cc https://github.com/svofski/vector06cc
 
+Скриншот из программы https://github.com/derFremd/theknight/blob/main/the_knight_v2.01.png
+
 # In English
 This code is a BASIC game called The Knight V2.01. It is written in Basic language v.2.5 of the Soviet computer Vector 06C.
 It implements the knight's traversal of the chessboard according to the Warnsdorff rule (heuristic for finding the Knight's Tour route).
@@ -13,3 +15,5 @@ It implements the knight's traversal of the chessboard according to the Warnsdor
 The source code is in the file "the_knight.txt ".
 To upload to the emulator, use the "the_knight.cas" format.
 Tested on the vector06cc emulator https://github.com/svofski/vector06cc
+
+Screenshot from the program  https://github.com/derFremd/theknight/blob/main/the_knight_v2.01.png
